@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="wviewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	
+	<link rel="stylesheet" href="https://use.fontwesome.com/releases/v5.6.3/css/all/css" integrity="sha384-UHRtZLI+pbxtHCWp1t77BiL4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5d08lWUE00s/" crossorgin="anonymous">
+	
+	<link rel="stylesheet" href="style.css">
+	<title>Food Science Knowledge Timeline</title>
+</head>  
+<body>
+	<header id="main-header">
+		<div class="container">
+		 <h1><i class=" fas fa-brain"></i>
+			Food Science Knowledge Resume</h1>
+		 <i class=" fas fa-user"></i>Malcolm... THE Food Science Expert</i>
+		</div>
+	</header>
+		<section id="timeline">
+		  <ul>
+			<li>
+			  <div>
+				<h3><i class="fas fa-chevron-right"></i> Feb. 1995 - December 1995: </h3>
+				 <p> Learn food science basics</p>
+				 <i class="fas fa-university fa-2x">
+				 <h3>Test for University symbol</h3>
+			  </div>
+			</li>
+			<li>
+			  <div>
+			      <h1><i class=" fas fa-brain"></i>
+				<h3><i class="fas fa-chevron-right"></i> 1996 Atlanta Olympic Inspector </h3>
+				 <p> Certified Inspector</p>
+               	 <p> Winner of Exceptoional Inspector Award.</p>
+			  </div>
+			 </li>
+			 <li>
+			    <div>
+				   <h3><i class="fas fa-chevron-right"></i>1997-1999 Food Safety Trainer Highlight</h3>
+				   <p>Trained 10 staff annually on basic food safety procedures, protocols, methods </p>
+				   <p>Interacted, educated restaurant, cafe, institutional staff, managers </p>
+			     </div>
+			 </li>
+			  <li>
+			  <div>
+				<h3><i class="fas fa-chevron-right"></i> March 1998 Commendation Letter</strong></h3>
+				 <p>Cmmendation award for Channel 11 Interview .
+			  </div>
+			</li>
+		    <li>
+			  <div>
+				<h3><i class="fas fa-chevron-right"></i> 1996-1999 Plans Examiner</p></h3>
+					<p>Food,cafe, school, restaurant, commercial project reviewer </p>
+				    <p>Review new facility construction plans</p>
+					<p>Lighting evaluator for work space, storage areas, coolers, freezers, bars</p>
+					<p>Exterior protection evaluator</p>
+			  </div>
+			</li>
+			<li>
+			  <div>
+				<h3><i class="fas fa-chevron-right"></i>1999-2001 Senior Plans Examiner</h3>
+				 <p>Review architectural plans</p>
+				 <p>Review engineering plans, interior and exterior</p>
+				 <p>Equipment design evaluator</p>
+			  </div>
+			</li>
+			<li>
+			  <div>
+				<h3><i class="fas fa-chevron-right"></i><p><strong>2001-2005 Training Manager</strong></p></h3>
+				 <p><strong> Manage County Food Safety Training Department</strong></p>
+				 <p> Budget management</p>
+				 <p>Personnel, budget management</p>
+			  </div>
+			</li>
+			<li>
+			  <div>
+				<h3><i class="fas fa-chevron-right"></i><strong>2006 accomplishment</strong></p></h3>
+				 <p><strong>Employee of the 4th Quarter </strong></p>
+				 <p></p>
+			  </div>
+			</li>
+			<li>
+			  <div>
+				<h3><i class="fas fa-chevron-right"></i> 2006 Department of Health & Wellness Accomplishment: </h3>
+				    <p><strong>2006 Employee of the Year Winner</strong></p>
+			  </div>
+			</li>
+			</ul>
+		   </section>
+		   <script src="main.js"></script>
+  </body>
+</html>
